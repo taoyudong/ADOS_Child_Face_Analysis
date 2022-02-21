@@ -1,0 +1,3 @@
+[submodule "eye-contact-cnn"]
+	path = eye-contact-cnn
+	url = https://github.com/rehg-lab/eye-contact-cnn
